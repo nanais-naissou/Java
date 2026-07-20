@@ -1,0 +1,4 @@
+Please select a mode for the game (easy or hard)
+
+Mode: hard
+Tore: true
