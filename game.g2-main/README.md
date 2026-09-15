@@ -86,3 +86,8 @@ Our project is a Java re-implementation of `Pac-Man`, playable in 2D, featuring 
 | `Ctrl` | Display debug mode (grid, statistics, etc.) |
 
 
+##DEMO
+
+![Game Demo](pacman.gif)
+
+

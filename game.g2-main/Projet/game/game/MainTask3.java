@@ -1,7 +1,7 @@
 package game;
 
 import java.awt.Dimension;
-import oop.graphics.Canvas;
+import oop.graphics.Canvas; 
 import oop.runtime.EventPump;
 import oop.tasks.Task;
 import java.io.IOException;
@@ -16,7 +16,7 @@ public class MainTask3 {
 		boolean mode = ConfigLoader.loadMode();
 
 		EventPump ep = new EventPump();
-		Dimension d = new Dimension(640, 480);
+		Dimension d = new Dimension(1000, 700);
 
 		Runnable r = new Runnable() {
 			public void run() {
